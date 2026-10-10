@@ -19,4 +19,4 @@ The resume PDF is available at `public/resume.pdf` and is linked from the hero s
 
 ## GitHub Pages deployment
 
-The GitHub Actions workflow in `.github/workflows/ci-cd.yml` builds on pushes and pull requests. It deploys automatically when a push or manual run targets the repository's default branch. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
+The GitHub Actions workflow in `.github/workflows/ci-cd.yml` builds on pushes and pull requests. It deploys automatically when a push or manual run targets the repository's default branch. GitHub Pages is configured to use Actions. The workflow publishes the built site to Pages when changes reach the default branch.
