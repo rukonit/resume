@@ -99,7 +99,7 @@ function Hero() {
           <a className="button button-primary" href="mailto:rukon-it@live.com">Let’s talk <Arrow /></a>
           <a className="button button-secondary" href={`${import.meta.env.BASE_URL}resume.pdf`} target="_blank" rel="noreferrer">Resume PDF <Arrow /></a>
         </div>
-        <div className="hero-meta"><span>JAVA · TYPESCRIPT · JavaScript · Spring Frameworks · Quarkus · GCP · AWS</span><span>SCROLL TO EXPLORE <b>↓</b></span></div>
+        <div className="hero-meta"><span>JAVA · TYPESCRIPT · JAVASCRIPT · SPRING FRAMEWORKS · QUARKUS · GCP · AWS</span><span>SCROLL TO EXPLORE <b>↓</b></span></div>
       </div>
       <div className="hero-visual" aria-label="Decorative illustration">
         <div className="visual-grid" />
